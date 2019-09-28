@@ -2,12 +2,15 @@
 
 Notes and data sources for each spread in the Te Whenua chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
 
+---
+
 ## Drowned Continent
 
 This map is based on NIWA’s 250-metre resolution New Zealand Regional Bathymetry (2016) digital elevation model. The map was composed in QGIS with a cartographic scale of 1:10,750,000. Unlike most maps in this book, it uses the NZGD2000 projection. The three-dimensional bathymetry effect was achieved by combining the shaded relief with the DEM in ‘overlay’ blending mode. We derived a shaded relief layer from the NIWA DEM. We exported the bathymetry basemap as a PNG and the boundaries as a PDF. These layers were imported into Adobe Illustrator for labelling and finishing.
 
 NIWA: New Zealand Regional Bathymetry 250 metre (2016)
-https://www.niwa.co.nz/our-science/oceans/bathymetry
+
+- https://www.niwa.co.nz/our-science/oceans/bathymetry
 
 
 ## Te Waipounamu and Te Ika a Maui
@@ -15,7 +18,8 @@ https://www.niwa.co.nz/our-science/oceans/bathymetry
 We prepared the map styles and colours in TileMill (`style.mss`). The TileMill CartoCSS was exported as a Mapnik XML style file — not included as heavily dependent on location of data. The final basemaps were rendered in NZTM2000 at a cartographic scale of 1:3,000,000 using custom Python code and Mapnik (`render_contours.py`). Place name labels were created by hand in Adobe Illustrator.
 
 Land Information New Zealand: NZ Contours Topo50 (2018)
-https://data.linz.govt.nz/layer/768-nz-contours-topo-150k/
+
+- https://data.linz.govt.nz/layer/768-nz-contours-topo-150k/
 
 ## Rock Ages and Most Ancient Rocks
 
@@ -26,7 +30,8 @@ GNS charges for the source data so we are unable to provide examples of the data
 The Rock Ages map is presented at a cartographic scale of 1:3,000,000. Most Ancient Rocks is at a scale of 1:500,000.
 
 GNS Science: Geology Map of New Zealand 1:250,000 (2012)
-https://www.gns.cri.nz/Home/Products/Maps/Geological-Maps
+
+- https://www.gns.cri.nz/Home/Products/Maps/Geological-Maps
 
 ## Origins and Faults
 
@@ -37,10 +42,12 @@ See `assign_major_rock_class.py` for our code. GNS charges for the source data s
 We constructed the basemap in QGIS and the final map in Adobe Illustrator. The map is presented in NZTM2000 at a cartographic scale of 1:3,000,000.
 
 GNS Science: Geology Map of New Zealand 1:250 000 (2012)
-https://www.gns.cri.nz/Home/Products/Maps/Geological-Maps
+
+- https://www.gns.cri.nz/Home/Products/Maps/Geological-Maps
 
 GNS Science: Active Faults Database (2018)
-https://data.gns.cri.nz/af/
+
+- https://data.gns.cri.nz/af/
 
 ## Deep Earthquakes and Shallow Earthquakes
 
@@ -58,8 +65,8 @@ We obtained a LiDAR-derived 5-metre DEM of elevation changes across most of Chri
 
 Canterbury Geotechnical Database: Vertical Ground Surface Movements, Map Layer CGD0600 (2012)
 
-- https://canterburygeotechnicaldatabase.projectorbit.com/ and
-http://www.geosociety.org/gsatoday/archive/25/3/article/i1052-5173-25-3-4.htm 
+- https://canterburygeotechnicaldatabase.projectorbit.com/
+- http://www.geosociety.org/gsatoday/archive/25/3/article/i1052-5173-25-3-4.htm 
 
 Christchurch City Council: Christchurch City Building Footprints (2015)
 
