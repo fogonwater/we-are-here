@@ -44,23 +44,26 @@ https://data.gns.cri.nz/af/
 
 ## Deep Earthquakes and Shallow Earthquakes
 
-Both spreads are based on data from the Geonet Quake Search service. We wrote a small Python script to query the service for earthquakes occurring between 2008 and 2018 and then merged the results into a single file. We imported the CSV files into QGIS and reprojected the data from WGS84 to NZTM2000. The two different maps were created by filtering the ‘depth’ variable and applying a proportional size formula to the ‘magnitude’ variable.
+Both spreads are based on data from the Geonet Quake Search service. We wrote a small Python script (`get_quakes.py`) to query the service for earthquakes occurring between 2008 and 2018 and then merged the results into a single file. We imported the CSV files into QGIS and reprojected the data from WGS84 to NZTM2000. The two different maps were created by filtering the ‘depth’ variable and applying a proportional size formula to the ‘magnitude’ variable.
 
 We exported the maps as SVGs and finished the maps in Adobe Illustrator. This included adding drop shadows to the deep earthquakes and a transparency effect to the shallow quakes. The final maps are drawn at a scale of 1:9,000,000. 
 
 Geonet: Quake Search (2018)
-https://quakesearch.geonet.org.nz/
+
+- https://quakesearch.geonet.org.nz/
 
 ## The Sinking City
 
 We obtained a LiDAR-derived 5-metre DEM of elevation changes across most of Christchurch from Dr Matthew Hughes at Lincoln University. We styled the map in QGIS and combined it with city council building footprints. This composite was exported as a PNG. Layout labelling and finishing took place in Adobe Illustrator. The final map is presented in NZTM2000 at a scale of 1:30,000.
 
 Canterbury Geotechnical Database: Vertical Ground Surface Movements, Map Layer CGD0600 (2012)
-https://canterburygeotechnicaldatabase.projectorbit.com/ and
+
+- https://canterburygeotechnicaldatabase.projectorbit.com/ and
 http://www.geosociety.org/gsatoday/archive/25/3/article/i1052-5173-25-3-4.htm 
 
 Christchurch City Council: Christchurch City Building Footprints (2015)
-https://koordinates.com/layer/6676-christchurch-city-building-footprints/
+
+- https://koordinates.com/layer/6676-christchurch-city-building-footprints/
 
 ## Land Cover
 
@@ -71,8 +74,10 @@ We exported the shapefile from QGIS as an SVG for labelling and colour adjustmen
 This spread was inspired by Bloomberg’s ‘How America Uses Its Land’ graphic.
 
 Manaaki Whenua — Landcare Research: LCDB v4.1 — Land Cover Database Version 4.1, Mainland New Zealand (2015)
-https://lris.scinfo.org.nz/layer/48423-lcdb-v41-land-cover-database-version-41-mainland-new-zealand/ 
+
+- https://lris.scinfo.org.nz/layer/48423-lcdb-v41-land-cover-database-version-41-mainland-new-zealand/ 
 
 Bloomberg: Here’s How America Uses Its Land
-https://www.bloomberg.com/graphics/2018-us-land-use/
+
+- https://www.bloomberg.com/graphics/2018-us-land-use/
 
