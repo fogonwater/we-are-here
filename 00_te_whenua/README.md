@@ -1,5 +1,7 @@
 # Chapter One: Te Whenua
 
+Notes and data sources for each spread in the Te Whenua chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+
 ## Drowned Continent
 
 This map is based on NIWA’s 250-metre resolution New Zealand Regional Bathymetry (2016) digital elevation model. The map was composed in QGIS with a cartographic scale of 1:10,750,000. Unlike most maps in this book, it uses the NZGD2000 projection. The three-dimensional bathymetry effect was achieved by combining the shaded relief with the DEM in ‘overlay’ blending mode. We derived a shaded relief layer from the NIWA DEM. We exported the bathymetry basemap as a PNG and the boundaries as a PDF. These layers were imported into Adobe Illustrator for labelling and finishing.
@@ -10,14 +12,16 @@ https://www.niwa.co.nz/our-science/oceans/bathymetry
 
 ## Te Waipounamu and Te Ika a Maui
 
-We prepared the map styles and colours in TileMill. The TileMill CartoCSS was exported as a Mapnik XML style file. The final basemaps were rendered in NZTM2000 at a cartographic scale of 1:3,000,000 using custom Python code and Mapnik. Place name labels were created by hand in Adobe Illustrator.
+We prepared the map styles and colours in TileMill (`style.mss`). The TileMill CartoCSS was exported as a Mapnik XML style file — not included as heavily dependent on location of data. The final basemaps were rendered in NZTM2000 at a cartographic scale of 1:3,000,000 using custom Python code and Mapnik (`render_contours.py`). Place name labels were created by hand in Adobe Illustrator.
 
 Land Information New Zealand: NZ Contours Topo50 (2018)
 https://data.linz.govt.nz/layer/768-nz-contours-topo-150k/
 
 ## Rock Ages and Most Ancient Rocks
 
-The geological age map was created from GNS Science’s Geology Map of New Zealand 1:250,000 Digital Vector Data. We reclassified the data into geological ages based on the source data’s STRATAGE field. The source geometry was simplified for presentation at coarser cartographic resolution. Both basemaps were prepared in QGIS and exported as SVGs for labelling and finishing in Adobe Illustrator.
+The geological age map was created from GNS Science’s Geology Map of New Zealand 1:250,000 Digital Vector Data. We reclassified the data into geological ages based on the source data’s STRATAGE field (see `assign_rock_period.py`). The source geometry was simplified for presentation at a coarser cartographic resolution. Both basemaps were prepared in QGIS and exported as SVGs for labelling and finishing in Adobe Illustrator.
+
+GNS charges for the source data so we are unable to provide examples of the data.
 
 The Rock Ages map is presented at a cartographic scale of 1:3,000,000. Most Ancient Rocks is at a scale of 1:500,000.
 
@@ -27,6 +31,8 @@ https://www.gns.cri.nz/Home/Products/Maps/Geological-Maps
 ## Origins and Faults
 
 The data behind this map is a simplified reclassification of GNS’s Geology Map of New Zealand. We used a look-up table to classify the rock-group field into igneous, sedimentary or metamorphic rock. We used the stratigraphic-age field to define whether the rock was older or younger than 2.5 million years.
+
+See `assign_major_rock_class.py` for our code. GNS charges for the source data so we are unable to provide examples of the data.
 
 We constructed the basemap in QGIS and the final map in Adobe Illustrator. The map is presented in NZTM2000 at a cartographic scale of 1:3,000,000.
 

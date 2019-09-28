@@ -1,0 +1,21 @@
+rock_class,major_class,rec_count
+,na,3902
+anthropic,anthropic,78
+chemical sediment,sedimentary,511
+clastic sediment,sedimentary,42101
+felsic extrusive,igneous,2484
+felsic igneous,igneous,2
+felsic intrusive,igneous,1122
+gneiss,metamorphic,281
+intermediate extrusive,igneous,627
+intermediate intrusive,igneous,253
+mafic extrusive,igneous,1352
+mafic igneous,igneous,1
+mafic intrusive,igneous,551
+metamorphic,metamorphic,3
+schist,metamorphic,1591
+sediment,sedimentary,52
+tectonic,igneous,430
+ultramafic intrusive,igneous,95
+unknown,na,70
+volcanic,igneous,89
