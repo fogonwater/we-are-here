@@ -53,7 +53,9 @@ GNS Science: Active Faults Database (2018)
 
 Both spreads are based on data from the Geonet Quake Search service. We wrote a small Python script (`get_quakes.py`) to query the service for earthquakes occurring between 2008 and 2018 and then merged the results into a single file. We imported the CSV files into QGIS and reprojected the data from WGS84 to NZTM2000. The two different maps were created by filtering the ‘depth’ variable and applying a proportional size formula to the ‘magnitude’ variable.
 
-We exported the maps as SVGs and finished the maps in Adobe Illustrator. This included adding drop shadows to the deep earthquakes and a transparency effect to the shallow quakes. The final maps are drawn at a scale of 1:9,000,000. 
+We exported the maps as SVGs and finished the maps in Adobe Illustrator. This included adding drop shadows to the deep earthquakes and a transparency effect to the shallow quakes. The final maps are drawn at a scale of 1:9,000,000.
+
+Please note that the `07_08_deep_shallow_quakes` contains two empty data directories. If run, the `get_quakes.py` script will populate them with data.
 
 Geonet: Quake Search (2018)
 
