@@ -121,7 +121,7 @@ Wellington City Council: Wellington City Building Footprints (2018)
 
 ## 210 Antarctic Expedition
 
-We received anonymised GPS scientist movement data directly from Fraser Morgan of Manaaki Whenua. The base map is a blends a slope map with a shaded relief surface, both of which were created from a LiDAR DEM of the McMurdo Dry Valleys. The “rips” in the shaded relief correspond to LiDAR survey data. We overlaid the GPS trails over the relief surface and exported the combined map as a high resolution JPEG. This image was imported into Adobe Illustrator, where we added place names and annotations.
+We received anonymised GPS scientist movement data directly from Dr Fraser Morgan of Manaaki Whenua. The basemap blends a slope map with a shaded relief surface, both of which were created from a LiDAR DEM of the McMurdo Dry Valleys. The 'rips' in the shaded relief correspond to LiDAR survey data. We overlaid the GPS trails over the relief surface and exported the combined map as a high-resolution JPEG. This image was imported into Adobe Illustrator, where we added place names and annotations.
 
 The map is projected in WGS 84 / USGS Transantarctic Mountains (EPSG:3294) at a cartographic scale of 1:45,000.
 
