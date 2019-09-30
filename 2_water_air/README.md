@@ -85,7 +85,7 @@ Manaaki Whenua — Landcare Research: NZDEM South Island 25 metre (2010)
 
 The charts were created using NIWA’s “eleven-station series” long-term temperature data. We opted to only use ten of the eleven stations as Molesworth ceased operation in 1994. NIWA has published an Excel spreadsheet of anomaly data for these stations, which ends at 2009. Under the advice of NIWA staff, we extended the data series beyond 2009 using data from CliFlo. We checked pre-2009 measurements from CliFlo against the supplied NIWA spreadsheet to ensure we were working with the correct data.
 
-The charts were produced in R using dplyr and ggplot2 (`207_rising_stations/viz_stations.R`). We exported the charts as vector graphics and finished the spread in Adobe Illustrator.
+The charts were produced in R using dplyr and ggplot2 (`207_rising_stations/viz_stations.R`). We exported the charts as vector graphics with SVG crowbar and finished the spread in Adobe Illustrator.
 
 NIWA: 11-Station annual temperature series data (2009)
 
@@ -99,7 +99,7 @@ NIWA: CliFlo (2018)
 
 We downloaded hourly surface wind measurements for 2014 from https://cliflo.niwa.co.nz for ten climate stations: Auckland (agent 22719), Gisborne (24976), Awakino (25726), Akitio (38057), Wellington (18234), Blenheim (12430), Greymouth (23934), Christchurch (24120), Dunedin (15752) and Bluff (5823).
 
-The visualisations are SVGs created using custom D3.js programming.
+The visualisations are SVGs created using custom D3.js programming (`208_wind_patterns/script.js`) and extracted with SVG Crowbar. We adjusted colours, added labels and created the final layout in Adobe Illustrator.
 
 NIWA: CliFlo (2014)
 
@@ -126,6 +126,7 @@ We received anonymised GPS scientist movement data directly from Fraser Morgan o
 The map is projected in WGS 84 / USGS Transantarctic Mountains (EPSG:3294) at a cartographic scale of 1:45,000.
 
 Manaaki Whenua – Landcare Research: Multi-disciplinary science team expedition GPS points (2016)
+
 - Data supplied directly.
 
 Open Topography: LiDAR survey of the McMurdo Dry Valleys, Antarctica (2014–2015)
