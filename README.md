@@ -7,6 +7,6 @@ Code and data for the We Are Here atlas.
 
 ## Here be dragons...
 
-![Shakespeare's England](shakespeares_england.jpg)
+![Angel and dragon](11301297315_ec1df832bd_o.jpg)
 
-<small>Public domain image from: [Shakespeare's England... New edition, revised, with illustrations](https://flic.kr/p/hXihTk), British Library HMNTS 10349.d.24</small>
+Public domain image from: [Image taken from page 478 of 'Ripon Millenary [1886]. A record of the Festival. Also a history of the City arranged under its Wakemen and Mayors from the year 1400.](https://www.flickr.com/photos/britishlibrary/11301297315/in/gallery-141992302@N07-72157676374914694/), British Library HMNTS 10368.r.4.
