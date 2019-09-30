@@ -38,7 +38,7 @@ Ngāi Tūhoe: Map of Te Urewera (2019)
 
 ## 305 National Parks
 
-The land cover data is a reclassification of Manaaki Whenua’s Land Cover Database (LCDB) version 4.1. We used GDAL to derive slope and hill shading raster layers from Manaaki Whenua’s 25-metre NZDEM digital elevation models. We created a series of CartoCSS style rules for the simplified land cover, slope and shaded relief in TileMill before rendering the maps directly with Python and Mapnik in NZTM2000. All the national park maps are printed a cartographic scale of 1:760,000. 
+The land cover data is a reclassification of Manaaki Whenua’s Land Cover Database (LCDB) version 4.1. We used GDAL to derive slope and hill shading raster layers from Manaaki Whenua’s 25-metre NZDEM digital elevation models. We created a series of CartoCSS style rules for the simplified land cover, slope and shaded relief in TileMill (`305_national_parks/style.mss`) before rendering the maps directly with Python and Mapnik in NZTM2000. All the national park maps are printed a cartographic scale of 1:760,000. 
 
 Department of Conservation: DOC Public Conservation Land (2018)
 
@@ -58,7 +58,7 @@ Manaaki Whenua — Landcare Research: NZDEM North Island 25 metre (2010)
 
 ## 306 Birds of a Feather
 
-Christopher Robertson from the Ornithological Society of New Zealand supplied a spreadsheet of bird observation data that was used to create their publication Atlas of Bird Distribution in New Zealand 1999–2004. We created individual spreadsheets for each species using a custom R script.
+Christopher Robertson from the Ornithological Society of New Zealand supplied a spreadsheet of bird observation data that was used to create their publication Atlas of Bird Distribution in New Zealand 1999–2004. We created individual spreadsheets for each species using a custom R script (`306_birds_feather/viz_bird_species.R`). We are unable to provide the data here due to licensing, but a link to the source organisation is provided below.
 
 The original map coordinates were supplied in the NZMG1949 projection. We reprojected the data to NZTM2000 in QGIS. The final grid dot maps were created in QGIS and are rendered at a cartographic scale of 1:15,000,000.
 
