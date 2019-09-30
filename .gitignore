@@ -1,6 +1,10 @@
 # OSX
 .DS_Store
 
+# R
+.Rhistory
+.RData
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
