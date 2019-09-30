@@ -15,7 +15,7 @@ NIWA: New Zealand Regional Bathymetry 250 metre (2016)
 
 ## 102 Te Waipounamu and 103 Te Ika a Maui
 
-We prepared the map styles and colours in TileMill (`style.mss`). The TileMill CartoCSS was exported as a Mapnik XML style file — not included as heavily dependent on location of data. The final basemaps were rendered in NZTM2000 at a cartographic scale of 1:3,000,000 using custom Python code and Mapnik (`render_contours.py`). Place name labels were created by hand in Adobe Illustrator.
+We prepared the map styles and colours in TileMill (`102_103_fire_contours/style.mss`). The TileMill CartoCSS was exported as a Mapnik XML style file — not included as heavily dependent on location of data. The final basemaps were rendered in NZTM2000 at a cartographic scale of 1:3,000,000 using custom Python code and Mapnik (`render_contours.py`). Place name labels were created by hand in Adobe Illustrator.
 
 Land Information New Zealand: NZ Contours Topo50 (2018)
 
@@ -23,7 +23,7 @@ Land Information New Zealand: NZ Contours Topo50 (2018)
 
 ## 104 Rock Ages and 105 Most Ancient Rocks
 
-The geological age map was created from GNS Science’s Geology Map of New Zealand 1:250,000 Digital Vector Data. We reclassified the data into geological ages based on the source data’s STRATAGE field (see `assign_rock_period.py`). The source geometry was simplified for presentation at a coarser cartographic resolution. Both basemaps were prepared in QGIS and exported as SVGs for labelling and finishing in Adobe Illustrator.
+The geological age map was created from GNS Science’s Geology Map of New Zealand 1:250,000 Digital Vector Data. We reclassified the data into geological ages based on the source data’s STRATAGE field (see `104_105_106_rock_ages_origins_faults/assign_rock_period.py`). The source geometry was simplified for presentation at a coarser cartographic resolution. Both basemaps were prepared in QGIS and exported as SVGs for labelling and finishing in Adobe Illustrator.
 
 GNS charges for the source data so we are unable to provide examples of the data.
 
@@ -37,7 +37,7 @@ GNS Science: Geology Map of New Zealand 1:250,000 (2012)
 
 The data behind this map is a simplified reclassification of GNS’s Geology Map of New Zealand. We used a look-up table to classify the rock-group field into igneous, sedimentary or metamorphic rock. We used the stratigraphic-age field to define whether the rock was older or younger than 2.5 million years.
 
-See `assign_major_rock_class.py` for our code. GNS charges for the source data so we are unable to provide examples of the data.
+See `104_105_106_rock_ages_origins_faults/assign_major_rock_class.py` for our code. GNS charges for the source data so we are unable to provide examples of the data.
 
 We constructed the basemap in QGIS and the final map in Adobe Illustrator. The map is presented in NZTM2000 at a cartographic scale of 1:3,000,000.
 
@@ -51,11 +51,11 @@ GNS Science: Active Faults Database (2018)
 
 ## 107 Deep Earthquakes and 108 Shallow Earthquakes
 
-Both spreads are based on data from the Geonet Quake Search service. We wrote a small Python script (`get_quakes.py`) to query the service for earthquakes occurring between 2008 and 2018 and then merged the results into a single file. We imported the CSV files into QGIS and reprojected the data from WGS84 to NZTM2000. The two different maps were created by filtering the ‘depth’ variable and applying a proportional size formula to the ‘magnitude’ variable.
+Both spreads are based on data from the Geonet Quake Search service. We wrote a small Python script (`107_108_deep_shallow_quakes/get_quakes.py`) to query the service for earthquakes occurring between 2008 and 2018 and then merged the results into a single file. We imported the CSV files into QGIS and reprojected the data from WGS84 to NZTM2000. The two different maps were created by filtering the ‘depth’ variable and applying a proportional size formula to the ‘magnitude’ variable.
 
 We exported the maps as SVGs and finished the maps in Adobe Illustrator. This included adding drop shadows to the deep earthquakes and a transparency effect to the shallow quakes. The final maps are drawn at a scale of 1:9,000,000.
 
-Please note that the `07_08_deep_shallow_quakes` contains two empty data directories. If run, the `get_quakes.py` script will populate them with data.
+Please note that the `107_108_deep_shallow_quakes` folder contains two empty data directories. If run, the `get_quakes.py` script will populate them with data.
 
 Geonet: Quake Search (2018)
 

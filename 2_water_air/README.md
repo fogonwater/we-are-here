@@ -1,5 +1,7 @@
 # Chapter Two: Air & Water
 
+Notes and data sources for each spread in the Water and Air chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+
 ## 201 Lightning Strikes
 
 The lightning map was created from Transpower’s Lightning Detection Network database. We created CartoCSS style rules in Tilemill (`201_lightning_strikes/style.mss`), making heavy use of colorize-alpha image-filter rules. The final map was drawn in NZTM2000 at a cartographic scale of 1:7,000,000 using Python and Mapnik.

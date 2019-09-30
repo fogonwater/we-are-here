@@ -1,5 +1,7 @@
 # Chapter Three: Living Things
 
+Notes and data sources for each spread in the Living Things chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+
 ## 301 Teeming Masses
 
 Species estimates are difficult to obtain due to the large number of undiscovered species and contested definitions. We settled for a list of species counts in Te Ara. These numbers should be treated as approximations. The species silhouettes were drawn in Illustrator. The shape sizes are based on a [rectangular treemap](https://docs.google.com/spreadsheets/d/1J96Td3opCK37-G4oDCH7kO9xo29sn161KpisTgrvqeI/edit?usp=sharing), which was created using Google Sheets.
