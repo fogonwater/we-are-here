@@ -28,7 +28,7 @@ Land Information New Zealand: NZ Street Address (2018)
 
 Statistics New Zealand maintains two different sets of boundary definitions for each of New Zealand’s urban areas. The more liberal boundary includes large tracts of surrounding farmland and small satellite towns. We have displayed only the tighter boundary, which maps continuous built-up urban and suburban locales. Unfortunately, Statistics New Zealand does not publish population values for the tighter boundary.
 
-To estimate the populations inside the silhouette, we extracted area unit (AU) values from the Statistics New Zealand ‘Subnational Population Estimates’ table (2017). We calculated the aggregate population size for each urban area by selecting and summing all area units with centroids inside the urban area.
+To estimate the populations inside the silhouette, we extracted area unit (AU) values from the Statistics New Zealand ‘Subnational Population Estimates’ table (2017). We used QGIS to calculate the aggregate population size for each urban area by selecting and summing all area units with centroids inside the urban area.
 
 Statistics New Zealand: Subnational Population Estimates (UA, AU), by Age and Sex, at 30 June 1996, 2001, 2006–18 (2017 boundaries)
 
@@ -42,7 +42,7 @@ Statistics New Zealand: Urban Rural 2018 Generalised (2018)
 
 These dasymetric dot density maps are based on the census’s ‘usually resident population count’ and ‘workplace address total count’ variables. The data was processed and mapped at the meshblock level. We used ancillary data to clip out regions of the meshblock that are unlikely to be homes or primary workplace addresses (for example ponds, wetlands and streets).
 
-We wrote a Python script that examined the number of residents and workers in each meshblock and then allocated the dot a random position within the meshblock polygon. The dots were assigned a type variable of either ‘worker’ or ‘resident’. We saved all dot positions in a CSV spreadsheet. Prior to saving, we randomly shuffled the spreadsheet’s rows to avoid biasing the draw order (for example, always drawing workers on top of residents). 
+We used a QGIS function (`Random points inside polygons`) to examine the number of residents and workers in each meshblock and then allocated the dot a random position within the meshblock polygon. The dots were assigned a type variable of either ‘worker’ or ‘resident’. We saved all dot positions in a CSV spreadsheet. Prior to saving, we randomly shuffled the spreadsheet’s rows (`4_places/merge_resi_work.py`) to avoid biasing the draw order (for example, always drawing workers on top of residents). 
 
 The basic map design was created with custom CartoCSS rules in TileMill. The final maps were rendered in NZTM2000 at a cartographic scale of 1:50,000 using Mapnik and Python. The labels were created in Adobe Illustrator.
 
