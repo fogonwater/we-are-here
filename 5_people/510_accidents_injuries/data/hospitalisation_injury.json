@@ -1,0 +1,3747 @@
+[
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 844, 
+      "x": 5, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 7, 
+      "x": 40, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 96, 
+      "x": 75, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 26, 
+      "x": 50, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 155, 
+      "x": 15, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 208, 
+      "x": 55, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 670, 
+      "x": 20, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 17, 
+      "x": 60, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 231, 
+      "x": 60, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 21, 
+      "x": 40, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 349, 
+      "x": 35, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 31, 
+      "x": 75, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1601, 
+      "x": 80, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 217, 
+      "x": 65, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 194, 
+      "x": 50, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 18, 
+      "x": 15, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 165, 
+      "x": 70, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 12, 
+      "x": 30, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 118, 
+      "x": 10, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 184, 
+      "x": 75, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 144, 
+      "x": 25, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 135, 
+      "x": 30, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 6, 
+      "x": 25, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 427, 
+      "x": 30, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 225, 
+      "x": 55, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 36, 
+      "x": 85, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 22, 
+      "x": 60, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 8, 
+      "x": 50, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 26, 
+      "x": 60, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 5, 
+      "x": 55, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1083, 
+      "x": 40, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 21, 
+      "x": 30, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 7, 
+      "x": 80, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V98-V99 Other and unspecified transport accidents", 
+      "count": 5, 
+      "x": 5, 
+      "y": 23
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 20, 
+      "x": 70, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 68, 
+      "x": 80, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 88, 
+      "x": 30, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 742, 
+      "x": 15, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 40, 
+      "x": 40, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 6, 
+      "x": 0, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 16, 
+      "x": 75, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 150, 
+      "x": 20, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 157, 
+      "x": 75, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 77, 
+      "x": 60, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 163, 
+      "x": 75, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 14, 
+      "x": 50, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 84, 
+      "x": 55, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V98-V99 Other and unspecified transport accidents", 
+      "count": 5, 
+      "x": 15, 
+      "y": 23
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 9, 
+      "x": 20, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 17, 
+      "x": 70, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 75, 
+      "x": 50, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 19, 
+      "x": 25, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 6, 
+      "x": 10, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 73, 
+      "x": 45, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 64, 
+      "x": 85, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 241, 
+      "x": 35, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 32, 
+      "x": 75, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 97, 
+      "x": 25, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 85, 
+      "x": 25, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 17, 
+      "x": 10, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 78, 
+      "x": 0, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 50, 
+      "x": 65, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 24, 
+      "x": 85, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 287, 
+      "x": 40, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 180, 
+      "x": 40, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 15, 
+      "x": 30, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 4746, 
+      "x": 85, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 159, 
+      "x": 15, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 10, 
+      "x": 25, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 45, 
+      "x": 70, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V98-V99 Other and unspecified transport accidents", 
+      "count": 8, 
+      "x": 60, 
+      "y": 23
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 34, 
+      "x": 20, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 159, 
+      "x": 15, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 29, 
+      "x": 50, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 194, 
+      "x": 50, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 23, 
+      "x": 70, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 126, 
+      "x": 50, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 531, 
+      "x": 15, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 55, 
+      "x": 25, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 2668, 
+      "x": 75, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 117, 
+      "x": 25, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 35, 
+      "x": 45, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 7, 
+      "x": 20, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 41, 
+      "x": 65, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 156, 
+      "x": 35, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 16, 
+      "x": 35, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 23, 
+      "x": 70, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1930, 
+      "x": 60, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 131, 
+      "x": 10, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 237, 
+      "x": 45, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 156, 
+      "x": 60, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 9, 
+      "x": 15, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 61, 
+      "x": 10, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 253, 
+      "x": 50, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 9, 
+      "x": 20, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 876, 
+      "x": 35, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 102, 
+      "x": 50, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 20, 
+      "x": 25, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 995, 
+      "x": 30, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 184, 
+      "x": 5, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 6, 
+      "x": 55, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 95, 
+      "x": 45, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 9, 
+      "x": 0, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 7, 
+      "x": 45, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 258, 
+      "x": 55, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 7, 
+      "x": 0, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1785, 
+      "x": 5, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 80, 
+      "x": 60, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 1378, 
+      "x": 50, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 288, 
+      "x": 30, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 86, 
+      "x": 15, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 11, 
+      "x": 70, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 12, 
+      "x": 75, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 29, 
+      "x": 5, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 710, 
+      "x": 25, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 669, 
+      "x": 20, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 33, 
+      "x": 30, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 2369, 
+      "x": 65, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 29, 
+      "x": 0, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 59, 
+      "x": 5, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 82, 
+      "x": 15, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 10, 
+      "x": 0, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 139, 
+      "x": 0, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 267, 
+      "x": 50, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 199, 
+      "x": 40, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 15, 
+      "x": 70, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 7, 
+      "x": 60, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 104, 
+      "x": 65, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 84, 
+      "x": 5, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 99, 
+      "x": 85, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 62, 
+      "x": 35, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 128, 
+      "x": 45, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 608, 
+      "x": 60, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 30, 
+      "x": 5, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 29, 
+      "x": 0, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 6, 
+      "x": 60, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 9, 
+      "x": 15, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 57, 
+      "x": 60, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 35, 
+      "x": 15, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 5, 
+      "x": 25, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 1098, 
+      "x": 15, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 8, 
+      "x": 85, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 75, 
+      "x": 10, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 7, 
+      "x": 35, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 86, 
+      "x": 20, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y35-Y36 Legal intervention and operations of war", 
+      "count": 10, 
+      "x": 20, 
+      "y": 6
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V98-V99 Other and unspecified transport accidents", 
+      "count": 8, 
+      "x": 35, 
+      "y": 23
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 15, 
+      "x": 65, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 130, 
+      "x": 40, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 2672, 
+      "x": 75, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 296, 
+      "x": 50, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 7, 
+      "x": 85, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 227, 
+      "x": 45, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 307, 
+      "x": 0, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 19, 
+      "x": 65, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 251, 
+      "x": 25, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 29, 
+      "x": 0, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 911, 
+      "x": 30, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 12, 
+      "x": 40, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 11, 
+      "x": 70, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 31, 
+      "x": 35, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 293, 
+      "x": 65, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 7, 
+      "x": 5, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 131, 
+      "x": 20, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 142, 
+      "x": 10, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 27, 
+      "x": 20, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 9, 
+      "x": 40, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 81, 
+      "x": 5, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 36, 
+      "x": 10, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 347, 
+      "x": 40, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 40, 
+      "x": 60, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 92, 
+      "x": 5, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 5, 
+      "x": 0, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 328, 
+      "x": 70, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1139, 
+      "x": 25, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 22, 
+      "x": 45, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 155, 
+      "x": 80, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 12, 
+      "x": 20, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 184, 
+      "x": 75, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 298, 
+      "x": 45, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 22, 
+      "x": 65, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 67, 
+      "x": 40, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 11, 
+      "x": 20, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 11, 
+      "x": 45, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 245, 
+      "x": 15, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 34, 
+      "x": 0, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 133, 
+      "x": 40, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 232, 
+      "x": 65, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 12, 
+      "x": 15, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 28, 
+      "x": 20, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 255, 
+      "x": 15, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 7, 
+      "x": 80, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 120, 
+      "x": 65, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 179, 
+      "x": 55, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 214, 
+      "x": 25, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 171, 
+      "x": 45, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 39, 
+      "x": 55, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 117, 
+      "x": 45, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 385, 
+      "x": 10, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 91, 
+      "x": 20, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 209, 
+      "x": 85, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 25, 
+      "x": 65, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 315, 
+      "x": 20, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 2691, 
+      "x": 80, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 14, 
+      "x": 70, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 45, 
+      "x": 40, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 54, 
+      "x": 70, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 268, 
+      "x": 85, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 37, 
+      "x": 70, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1474, 
+      "x": 15, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 799, 
+      "x": 30, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 129, 
+      "x": 80, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 159, 
+      "x": 15, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 275, 
+      "x": 45, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 11, 
+      "x": 40, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 42, 
+      "x": 5, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 157, 
+      "x": 70, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 287, 
+      "x": 45, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 35, 
+      "x": 5, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 65, 
+      "x": 25, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 88, 
+      "x": 75, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 7, 
+      "x": 10, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 20, 
+      "x": 80, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 602, 
+      "x": 15, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 105, 
+      "x": 65, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 14, 
+      "x": 85, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 30, 
+      "x": 10, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 17, 
+      "x": 65, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 202, 
+      "x": 10, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 93, 
+      "x": 0, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1352, 
+      "x": 85, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 9, 
+      "x": 65, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 24, 
+      "x": 20, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1681, 
+      "x": 60, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 7, 
+      "x": 85, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 758, 
+      "x": 55, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 9, 
+      "x": 60, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 83, 
+      "x": 65, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 15, 
+      "x": 60, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 24, 
+      "x": 15, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 63, 
+      "x": 0, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 180, 
+      "x": 20, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 273, 
+      "x": 75, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 864, 
+      "x": 50, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 29, 
+      "x": 10, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1899, 
+      "x": 75, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 123, 
+      "x": 30, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 58, 
+      "x": 0, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 49, 
+      "x": 25, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 134, 
+      "x": 60, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 1078, 
+      "x": 25, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 18, 
+      "x": 10, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 93, 
+      "x": 80, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 540, 
+      "x": 25, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 442, 
+      "x": 25, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 150, 
+      "x": 85, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 155, 
+      "x": 25, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 236, 
+      "x": 80, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 193, 
+      "x": 70, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 160, 
+      "x": 70, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 10, 
+      "x": 85, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 687, 
+      "x": 20, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1141, 
+      "x": 40, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 58, 
+      "x": 80, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 131, 
+      "x": 50, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 61, 
+      "x": 5, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 47, 
+      "x": 30, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 453, 
+      "x": 0, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 130, 
+      "x": 55, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 263, 
+      "x": 5, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 180, 
+      "x": 80, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 388, 
+      "x": 40, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 11, 
+      "x": 40, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 210, 
+      "x": 20, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 5, 
+      "x": 20, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 6, 
+      "x": 35, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 11, 
+      "x": 75, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 17, 
+      "x": 0, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 320, 
+      "x": 10, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1978, 
+      "x": 65, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 16, 
+      "x": 55, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 20, 
+      "x": 55, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 179, 
+      "x": 65, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 27, 
+      "x": 55, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 6, 
+      "x": 20, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 15, 
+      "x": 15, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 518, 
+      "x": 15, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y35-Y36 Legal intervention and operations of war", 
+      "count": 7, 
+      "x": 25, 
+      "y": 6
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 6, 
+      "x": 65, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 102, 
+      "x": 70, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1301, 
+      "x": 45, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 259, 
+      "x": 10, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 11, 
+      "x": 45, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 313, 
+      "x": 20, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 725, 
+      "x": 35, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 184, 
+      "x": 40, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 35, 
+      "x": 75, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 260, 
+      "x": 20, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 23, 
+      "x": 45, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 10, 
+      "x": 80, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 575, 
+      "x": 0, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 530, 
+      "x": 15, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 17, 
+      "x": 80, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 48, 
+      "x": 35, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 41, 
+      "x": 80, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V98-V99 Other and unspecified transport accidents", 
+      "count": 5, 
+      "x": 20, 
+      "y": 23
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 65, 
+      "x": 85, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 182, 
+      "x": 80, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 812, 
+      "x": 30, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 231, 
+      "x": 60, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 2152, 
+      "x": 70, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 278, 
+      "x": 40, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 12, 
+      "x": 85, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 220, 
+      "x": 45, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 163, 
+      "x": 20, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 10, 
+      "x": 75, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 270, 
+      "x": 35, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 254, 
+      "x": 0, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 107, 
+      "x": 60, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y35-Y36 Legal intervention and operations of war", 
+      "count": 6, 
+      "x": 30, 
+      "y": 6
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 2230, 
+      "x": 70, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 398, 
+      "x": 70, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 43, 
+      "x": 15, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 30, 
+      "x": 50, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 14, 
+      "x": 80, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 8, 
+      "x": 10, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 672, 
+      "x": 20, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 26, 
+      "x": 40, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 15, 
+      "x": 80, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 47, 
+      "x": 45, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 208, 
+      "x": 30, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1753, 
+      "x": 55, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 107, 
+      "x": 70, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 203, 
+      "x": 55, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 33, 
+      "x": 65, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 61, 
+      "x": 20, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 91, 
+      "x": 60, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 160, 
+      "x": 35, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 17, 
+      "x": 80, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 55, 
+      "x": 45, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 13, 
+      "x": 5, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 209, 
+      "x": 35, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 16, 
+      "x": 70, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 35, 
+      "x": 50, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 187, 
+      "x": 45, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 128, 
+      "x": 65, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 220, 
+      "x": 40, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 396, 
+      "x": 25, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 78, 
+      "x": 20, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 200, 
+      "x": 70, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 97, 
+      "x": 0, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 22, 
+      "x": 75, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 26, 
+      "x": 40, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 74, 
+      "x": 35, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 226, 
+      "x": 50, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 30, 
+      "x": 55, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 45, 
+      "x": 5, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 939, 
+      "x": 40, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 9, 
+      "x": 60, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 21, 
+      "x": 70, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 11, 
+      "x": 80, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 272, 
+      "x": 40, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 138, 
+      "x": 30, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 224, 
+      "x": 55, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 179, 
+      "x": 10, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 7, 
+      "x": 35, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 109, 
+      "x": 60, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 919, 
+      "x": 35, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 8, 
+      "x": 80, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1570, 
+      "x": 50, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 1106, 
+      "x": 45, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y35-Y36 Legal intervention and operations of war", 
+      "count": 8, 
+      "x": 15, 
+      "y": 6
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 297, 
+      "x": 15, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 66, 
+      "x": 0, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 150, 
+      "x": 35, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 41, 
+      "x": 70, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 1275, 
+      "x": 45, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 15, 
+      "x": 35, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 33, 
+      "x": 35, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 300, 
+      "x": 0, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 5, 
+      "x": 15, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 418, 
+      "x": 10, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X85-Y09 Assault", 
+      "count": 103, 
+      "x": 10, 
+      "y": 8
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 189, 
+      "x": 25, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 25, 
+      "x": 5, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V98-V99 Other and unspecified transport accidents", 
+      "count": 5, 
+      "x": 45, 
+      "y": 23
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 153, 
+      "x": 35, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1419, 
+      "x": 50, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 267, 
+      "x": 50, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 68, 
+      "x": 55, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 291, 
+      "x": 5, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 175, 
+      "x": 5, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 108, 
+      "x": 65, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 193, 
+      "x": 30, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 292, 
+      "x": 80, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 472, 
+      "x": 25, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 181, 
+      "x": 55, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 10, 
+      "x": 35, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 32, 
+      "x": 35, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 25, 
+      "x": 30, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 11, 
+      "x": 80, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 192, 
+      "x": 45, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 26, 
+      "x": 60, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 128, 
+      "x": 55, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 277, 
+      "x": 30, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 44, 
+      "x": 85, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 52, 
+      "x": 30, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 35, 
+      "x": 30, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 715, 
+      "x": 10, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 37, 
+      "x": 65, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 98, 
+      "x": 10, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 142, 
+      "x": 55, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 319, 
+      "x": 85, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 16, 
+      "x": 35, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 10, 
+      "x": 75, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 22, 
+      "x": 35, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 1662, 
+      "x": 55, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 321, 
+      "x": 25, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 29, 
+      "x": 75, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 42, 
+      "x": 40, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 30, 
+      "x": 50, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 910, 
+      "x": 0, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 25, 
+      "x": 60, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 14, 
+      "x": 55, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 864, 
+      "x": 45, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 220, 
+      "x": 60, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 14, 
+      "x": 75, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 58, 
+      "x": 85, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 324, 
+      "x": 75, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 12, 
+      "x": 30, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 5, 
+      "x": 55, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 495, 
+      "x": 15, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V40-V49 Car occupant injured in transport accident", 
+      "count": 327, 
+      "x": 30, 
+      "y": 30
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 298, 
+      "x": 35, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1484, 
+      "x": 20, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 38, 
+      "x": 45, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 26, 
+      "x": 85, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 37, 
+      "x": 15, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 35, 
+      "x": 25, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 54, 
+      "x": 20, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 9, 
+      "x": 25, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 5, 
+      "x": 5, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 6, 
+      "x": 65, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 10, 
+      "x": 15, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 52, 
+      "x": 5, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 49, 
+      "x": 65, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 3385, 
+      "x": 80, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 5, 
+      "x": 50, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 25, 
+      "x": 10, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 2712, 
+      "x": 70, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 74, 
+      "x": 30, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y35-Y36 Legal intervention and operations of war", 
+      "count": 5, 
+      "x": 40, 
+      "y": 6
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 56, 
+      "x": 25, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 19, 
+      "x": 75, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 98, 
+      "x": 55, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 19, 
+      "x": 85, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 7, 
+      "x": 65, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 34, 
+      "x": 45, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 195, 
+      "x": 80, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 251, 
+      "x": 55, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 45, 
+      "x": 80, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 355, 
+      "x": 85, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 45, 
+      "x": 50, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 221, 
+      "x": 50, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 438, 
+      "x": 20, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 405, 
+      "x": 5, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "count": 99, 
+      "x": 35, 
+      "y": 12
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 9, 
+      "x": 55, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 206, 
+      "x": 50, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 53, 
+      "x": 50, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1945, 
+      "x": 0, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 31, 
+      "x": 85, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 545, 
+      "x": 65, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 267, 
+      "x": 40, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 106, 
+      "x": 0, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "X20-X29 Contact with venomous animals and plants", 
+      "count": 29, 
+      "x": 25, 
+      "y": 14
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "count": 168, 
+      "x": 65, 
+      "y": 10
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 38, 
+      "x": 15, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "count": 5, 
+      "x": 5, 
+      "y": 3
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 52, 
+      "x": 65, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 18, 
+      "x": 30, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 835, 
+      "x": 35, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "count": 281, 
+      "x": 60, 
+      "y": 4
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 9, 
+      "x": 75, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 41, 
+      "x": 45, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 6, 
+      "x": 85, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "00-04", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 961, 
+      "x": 0, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1681, 
+      "x": 10, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V95-V97 Air and space transport accidents", 
+      "count": 10, 
+      "x": 30, 
+      "y": 24
+    }, 
+    {
+      "AgeGroup": "05-09", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 16, 
+      "x": 5, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 40, 
+      "x": 70, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 9, 
+      "x": 25, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 347, 
+      "x": 30, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 39, 
+      "x": 55, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 16, 
+      "x": 55, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "count": 10, 
+      "x": 30, 
+      "y": 17
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "Y10-Y34 Event of undetermined intent", 
+      "count": 41, 
+      "x": 10, 
+      "y": 7
+    }, 
+    {
+      "AgeGroup": "30-34", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 182, 
+      "x": 30, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "W65-W74 Accidental drowning and submersion", 
+      "count": 5, 
+      "x": 50, 
+      "y": 19
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 29, 
+      "x": 40, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "X10-X19 Contact with heat and hot substances", 
+      "count": 23, 
+      "x": 60, 
+      "y": 15
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 104, 
+      "x": 75, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 147, 
+      "x": 85, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V80-V89 Other land transport accidents", 
+      "count": 74, 
+      "x": 60, 
+      "y": 26
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 264, 
+      "x": 35, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 152, 
+      "x": 85, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "V20-V29 Motorcycle rider injured in transport accident", 
+      "count": 8, 
+      "x": 75, 
+      "y": 31
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 910, 
+      "x": 40, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "W75-W84 Other accidental threats to breathing", 
+      "count": 72, 
+      "x": 50, 
+      "y": 18
+    }, 
+    {
+      "AgeGroup": "10-14", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 243, 
+      "x": 10, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "W50-W64 Exposure to animate mechanical forces", 
+      "count": 171, 
+      "x": 60, 
+      "y": 20
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 109, 
+      "x": 70, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 736, 
+      "x": 25, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "W00-W19 Falls", 
+      "count": 1492, 
+      "x": 55, 
+      "y": 22
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "V10-V19 Pedal cyclist injured in transport accident", 
+      "count": 139, 
+      "x": 60, 
+      "y": 32
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 5, 
+      "x": 85, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 32, 
+      "x": 45, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "65-69", 
+      "ICDSubgroup": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "count": 2134, 
+      "x": 65, 
+      "y": 2
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "W20-W49 Exposure to inanimate mechanical forces", 
+      "count": 1285, 
+      "x": 20, 
+      "y": 21
+    }, 
+    {
+      "AgeGroup": "85+", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 2781, 
+      "x": 85, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "70-74", 
+      "ICDSubgroup": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "count": 11, 
+      "x": 70, 
+      "y": 29
+    }, 
+    {
+      "AgeGroup": "55-59", 
+      "ICDSubgroup": "V00-V09 Pedestrian injured in transport accident", 
+      "count": 48, 
+      "x": 55, 
+      "y": 33
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "count": 65, 
+      "x": 40, 
+      "y": 0
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "count": 100, 
+      "x": 75, 
+      "y": 1
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "V70-V79 Bus occupant injured in transport accident", 
+      "count": 10, 
+      "x": 50, 
+      "y": 27
+    }, 
+    {
+      "AgeGroup": "35-39", 
+      "ICDSubgroup": "V90-V94 Water transport accidents", 
+      "count": 23, 
+      "x": 35, 
+      "y": 25
+    }, 
+    {
+      "AgeGroup": "15-19", 
+      "ICDSubgroup": "X50-X57 Overexertion, travel and privation", 
+      "count": 266, 
+      "x": 15, 
+      "y": 11
+    }, 
+    {
+      "AgeGroup": "80-84", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 40, 
+      "x": 80, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "40-44", 
+      "ICDSubgroup": "X00-X09 Exposure to smoke, fire and flames", 
+      "count": 43, 
+      "x": 40, 
+      "y": 16
+    }, 
+    {
+      "AgeGroup": "75-79", 
+      "ICDSubgroup": "X30-X39 Exposure to forces of nature", 
+      "count": 9, 
+      "x": 75, 
+      "y": 13
+    }, 
+    {
+      "AgeGroup": "45-49", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 345, 
+      "x": 45, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "25-29", 
+      "ICDSubgroup": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "count": 10, 
+      "x": 25, 
+      "y": 28
+    }, 
+    {
+      "AgeGroup": "50-54", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 312, 
+      "x": 50, 
+      "y": 9
+    }, 
+    {
+      "AgeGroup": "60-64", 
+      "ICDSubgroup": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "count": 1935, 
+      "x": 60, 
+      "y": 5
+    }, 
+    {
+      "AgeGroup": "20-24", 
+      "ICDSubgroup": "X60-X84 Intentional self-harm", 
+      "count": 618, 
+      "x": 20, 
+      "y": 9
+    }
+  ]

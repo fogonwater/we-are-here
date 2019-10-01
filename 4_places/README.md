@@ -1,6 +1,6 @@
 # Chapter Four: Places
 
-Notes and data sources for each spread in the Places chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+Notes and data sources for each spread in the **Places** chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
 
 ---
 
@@ -68,7 +68,7 @@ Auckland Council: Auckland LiDAR 1m DEM (2013)
 
 ## 413 City Sizes
 
-This chart is based on RCG Realty’s New Zealand Local Population Database, which collates 120 years of New Zealand census data. We reshaped the data and built ranks with an R script (`413_city_sizes\prepare_cities.R`). A base chart with a custom D3.js script ((`413_city_sizes\script.js`)and exported as an SVG for finishing in Adobe Illustrator.
+This chart is based on RCG Realty’s New Zealand Local Population Database, which collates 120 years of New Zealand census data. We reshaped the data and built ranks with an R script (`413_city_sizes/prepare_cities.R`). A base chart with a custom D3.js script ((`413_city_sizes/script.js`)and exported as an SVG for finishing in Adobe Illustrator.
 
 RCG Realty: New Zealand Local Population Database (2018)
 

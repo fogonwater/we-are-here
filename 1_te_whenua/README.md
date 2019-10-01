@@ -1,6 +1,6 @@
 # Chapter One: Te Whenua
 
-Notes and data sources for each spread in the Te Whenua chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+Notes and data sources for each spread in the **Te Whenua** chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
 
 ---
 

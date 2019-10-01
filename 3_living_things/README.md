@@ -1,6 +1,6 @@
 # Chapter Three: Living Things
 
-Notes and data sources for each spread in the Living Things chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+Notes and data sources for each spread in the **Living Things** chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
 
 ---
 

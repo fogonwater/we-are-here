@@ -1,6 +1,6 @@
 # Chapter Two: Air & Water
 
-Notes and data sources for each spread in the Water and Air chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
+Notes and data sources for each spread in the **Water and Air** chapter. Where programming was necessary to create a graphic, the code is provided in a sub-folder.
 
 ---
 
@@ -61,7 +61,7 @@ The Year of Weather charts were inspired by Raureif Studio’s [Weather Radials 
 
 The charts were constructed in D3.js (`205_dry_spells/script.js`) with daily data from NIWA’s New Zealand Drought Monitor system. The drought categories are NIWA’s qualitative descriptions for New Zealand Drought Index ranges.
 
-Note that these charts were created while Chris went through a phase of using [d3-jetpack](https://github.com/gka/d3-jetpack) so the D3.js syntax may look a little weird.
+Note that these charts were created while Chris went through a phase of using [d3-jetpack](https://github.com/gka/d3-jetpack), so the D3.js syntax may look a little weird.
 
 NIWA: New Zealand Drought Index
 

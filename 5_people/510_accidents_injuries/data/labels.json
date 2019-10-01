@@ -1,0 +1,138 @@
+[
+    {
+      "name": "W65-W74 Accidental drowning and submersion", 
+      "y": 19
+    }, 
+    {
+      "name": "X20-X29 Contact with venomous animals and plants", 
+      "y": 14
+    }, 
+    {
+      "name": "V10-V19 Pedal cyclist injured in transport accident", 
+      "y": 32
+    }, 
+    {
+      "name": "Y10-Y34 Event of undetermined intent", 
+      "y": 7
+    }, 
+    {
+      "name": "Y40-Y59 Drugs, medicaments and biological substances causing adverse effects in therapeutic use", 
+      "y": 5
+    }, 
+    {
+      "name": "V40-V49 Car occupant injured in transport accident", 
+      "y": 30
+    }, 
+    {
+      "name": "V60-V69 Occupant of heavy transport vehicle injured in transport accident", 
+      "y": 28
+    }, 
+    {
+      "name": "Y90-Y98 Supplementary factors related to causes of morbidity and mortality classified elsewhere", 
+      "y": 0
+    }, 
+    {
+      "name": "X85-Y09 Assault", 
+      "y": 8
+    }, 
+    {
+      "name": "Y83-Y84 Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure", 
+      "y": 2
+    }, 
+    {
+      "name": "X50-X57 Overexertion, travel and privation", 
+      "y": 11
+    }, 
+    {
+      "name": "X00-X09 Exposure to smoke, fire and flames", 
+      "y": 16
+    }, 
+    {
+      "name": "X30-X39 Exposure to forces of nature", 
+      "y": 13
+    }, 
+    {
+      "name": "V20-V29 Motorcycle rider injured in transport accident", 
+      "y": 31
+    }, 
+    {
+      "name": "Y85-Y89 Sequelae of external causes of morbidity and mortality", 
+      "y": 1
+    }, 
+    {
+      "name": "Y60-Y69 Misadventures to patients during surgical and medical care", 
+      "y": 4
+    }, 
+    {
+      "name": "X40-X49 Accidental poisoning by and exposure to noxious substances", 
+      "y": 12
+    }, 
+    {
+      "name": "X60-X84 Intentional self-harm", 
+      "y": 9
+    }, 
+    {
+      "name": "X58-X59 Accidental exposure to other and unspecified factors", 
+      "y": 10
+    }, 
+    {
+      "name": "W50-W64 Exposure to animate mechanical forces", 
+      "y": 20
+    }, 
+    {
+      "name": "V90-V94 Water transport accidents", 
+      "y": 25
+    }, 
+    {
+      "name": "V98-V99 Other and unspecified transport accidents", 
+      "y": 23
+    }, 
+    {
+      "name": "Y35-Y36 Legal intervention and operations of war", 
+      "y": 6
+    }, 
+    {
+      "name": "Y70-Y82 Medical devices associated with misadventures in diagnostic and therapeutic use", 
+      "y": 3
+    }, 
+    {
+      "name": "W75-W84 Other accidental threats to breathing", 
+      "y": 18
+    }, 
+    {
+      "name": "V50-V59 Occupant of pick-up truck or van injured in transport accident", 
+      "y": 29
+    }, 
+    {
+      "name": "V80-V89 Other land transport accidents", 
+      "y": 26
+    }, 
+    {
+      "name": "V95-V97 Air and space transport accidents", 
+      "y": 24
+    }, 
+    {
+      "name": "V70-V79 Bus occupant injured in transport accident", 
+      "y": 27
+    }, 
+    {
+      "name": "W20-W49 Exposure to inanimate mechanical forces", 
+      "y": 21
+    }, 
+    {
+      "name": "V00-V09 Pedestrian injured in transport accident", 
+      "y": 33
+    }, 
+    {
+      "name": "W00-W19 Falls", 
+      "y": 22
+    }, 
+    {
+      "name": "W85-W99 Exposure to electric current, radiation and extreme ambient air temperature and pressure", 
+      "y": 17
+    }, 
+    {
+      "name": "X10-X19 Contact with heat and hot substances", 
+      "y": 15
+    }
+  ]
