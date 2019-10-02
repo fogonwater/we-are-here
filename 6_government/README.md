@@ -6,7 +6,7 @@ Notes and data sources for each spread in the **Government** chapter. Where prog
 
 ## 601 History of Parliament
 
-To create this visualisation we reviewed electoral commission records of historical elections and cross-referenced them to Wikipedia entries on New Zealand election results. We synthesised these materials into a spreadsheet recording MP party affiliation on a year-by-year basis. We wrote a D3.js script to read this data and plot a historical stream chart as an SVG. We imported the SVG into Adobe Illustrator for colouring and labelling.
+To create this visualisation we reviewed electoral commission records of historical elections and cross-referenced them to Wikipedia entries on New Zealand election results. We synthesised these materials into a spreadsheet recording MP party affiliation on a year-by-year basis (`601_history_parliament/prep_election_data.py`). We wrote a D3.js script (`601_history_parliament/script.js`)to read this data and plot a historical stream chart as an SVG. We imported the SVG into Adobe Illustrator for colouring and labelling.
 
 Electoral Commission: General Elections 1890–1993 — Seats Won by Party (2018)
 
@@ -22,9 +22,9 @@ Wikipedia: List of New Zealand By-elections (2019)
 
 ## 602 Te Reo Māori in Parliament
 
-This chart was created from a corpus of te reo Māori that Te Hiku Media and Dragonfly Data Science derived from Hansard, the official record of New Zealand parliamentary debates. Text extraction and processing used the nga-tautohetohe Python module. We used the ngā-kupu module to score words as English or Māori.
+This chart was created from a corpus of te reo Māori that Te Hiku Media and Dragonfly Data Science derived from Hansard, the official record of New Zealand parliamentary debates. Text extraction and processing used the [nga-tautohetohe Python module](https://github.com/TeHikuMedia/nga-tautohetohe). We used the [ngā-kupu module](https://github.com/TeHikuMedia/nga-kupu) to score words as English or Māori.
 
-We ran a secondary parser over the supplied CSV corpus to extract year data and correct common OCR scanning errors in the date numerals. A draft chart was created in D3.js and exported to SVG for finishing in Adobe Illustrator.
+We ran a secondary parser over the supplied CSV corpus to extract year data and correct common OCR scanning errors in the date numerals (`602_te_reo_parliament/clean_hansard_index.py`). A draft chart was created in D3.js and exported to SVG for finishing in Adobe Illustrator.
 
 New Zealand Parliament: Historical Hansard (2018)
 
@@ -40,14 +40,14 @@ Te Hiku Media: Ngā-kupu Māori Text Identification (2018)
 
 ## 603 Government Bills and 604 Private Members’ Bills
 
-To create these charts we wrote a custom piece of software using Python and the Beautiful Soup module. The software downloads every ‘Bill Details’ page from Parliament’s ‘All Bills’ directory and then uses Beautiful Soup to extract key metadata. This includes the bill’s title and the dates it passed through each stage. The software outputs a structured account of each bill’s history in JSON format. The visualisation was created using D3.js, exported to SVG and finished in Adobe Illustrator.
+To create these charts we wrote custom scripts using Python and the Beautiful Soup module. The scripts (`603_604_government_member_bills/get_bills.py`) download every ‘Bill Details’ page from Parliament’s ‘All Bills’ directory and then uses Beautiful Soup to extract key metadata (`603_604_government_member_bills/parse_pills.py`). This includes the bill’s title and the dates it passed through each stage. The bill parser outputs a structured account of each bill’s history in JSON format. Please note that the bill parser is sensitive to Parliament's HTML page structure — if Parliament change their structure, this script is likely to break. The visualisation was created using D3.js (`to sort out`), exported to SVG and finished in Adobe Illustrator.
 
 New Zealand Parliament: Bills (Proposed Laws) (2018)
 https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/all
 
 ## 605 The Nation’s Spending
 
-We created a draft version of this dot chart using a custom D3.js script. We created the final layout and added captions in Adobe Illustrator.
+We created a draft version of this dot chart using a custom D3.js script (`605_nations_spending/script.js`). We created the final layout and added captions in Adobe Illustrator.
 
 New Zealand Treasury: Expenditure Data — Estimates of Appropriations 2018/19
 
@@ -55,7 +55,7 @@ New Zealand Treasury: Expenditure Data — Estimates of Appropriations 2018/19
 
 ## 606 Capital City
 
-We downloaded the physical addresses for all government agencies as a CSV file. We wrote a Python script that uses the Geocoder module to find the latitude and longitude for each address. We reviewed the results and manually geocoded missing entries.
+We downloaded the physical addresses for all government agencies as a CSV file. We wrote a Python script that uses the Geocoder module to find the latitude and longitude for each address. We reviewed the results and manually geocoded missing entries (`606_capital_city/geo_government_locations.csv`).
 
 We overlaid the resulting points on a map of Wellington building footprints in QGIS. This map was rotated and exported to Adobe Illustrator, where we added texture and labels. The final map is projected in NZTM2000 at a cartographic scale of 1:3500.
 

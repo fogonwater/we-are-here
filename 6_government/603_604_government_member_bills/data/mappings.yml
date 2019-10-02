@@ -1,0 +1,63 @@
+# set up our YAML anchors
+tools:
+  date_parser: &date_parser
+    _transforms: [date_parser]
+  lower: &lower
+    _transforms: [lower]
+
+
+target:
+  bill_id:
+    _find: Bill no
+    _optional: Yes
+  act:
+    _find: Act
+    #<<: *lower
+    _optional: Yes
+  member:
+    _find: Member in charge
+  bill_type:
+    _find: Type of bill
+  bill_title:
+    _find: Bill title
+  events:
+    - _find: Introduction
+      _name: introduction
+      _optional: Yes
+      <<: *date_parser
+    - _find: First reading
+      _name: first_reading
+      _optional: Yes
+      <<: *date_parser
+    - _find: Submissions due
+      _name: submissions_due
+      _optional: Yes
+      <<: *date_parser
+    - _find: SC Report(s)
+      _name: sc_report
+      _optional: Yes
+      <<: *date_parser
+    - _find: Second reading
+      _name: second_reading
+      _optional: Yes
+      <<: *date_parser
+    - whole_house:
+      _find: Committee of the whole House
+      _name: whole_house
+      _optional: Yes
+      <<: *date_parser
+    - _find: Third reading
+      _name: third_reading
+      _optional: Yes
+      <<: *date_parser
+    - _find: Royal assent
+      _name: royal_assent
+      _optional: Yes
+      <<: *date_parser
+    - _find: negatived
+      _optional: Yes
+      <<: *date_parser
+    - _find: Discharged - Financial Veto
+      _name: financial_veto
+      _optional: Yes
+      <<: *date_parser
