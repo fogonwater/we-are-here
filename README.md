@@ -10,14 +10,14 @@ Although we used [QGIS](https://qgis.org/en/site/) heavily, we have not included
 
 The repository is organised into folders that correspond to the book's chapters. If you are interested in something that's not here, please get in touch with Chris McDowall through Github or via this [contact form](https://fogonwater.com/).
 
-- [1_te_whenua](https://github.com/fogonwater/we-are-here/tree/master/1_te_whenua)
-- [2_water_air](https://github.com/fogonwater/we-are-here/tree/master/2_water_air)
-- [3_living_things](https://github.com/fogonwater/we-are-here/tree/master/3_living_things)
-- [4_places](https://github.com/fogonwater/we-are-here/tree/master/4_places)
-- [5_people](https://github.com/fogonwater/we-are-here/tree/master/5_people)
-- [6_government](https://github.com/fogonwater/we-are-here/tree/master/6_government)
-- [7_movement_energy](https://github.com/fogonwater/we-are-here/tree/master/7_movement_energy)
-- [8_heart_memory](https://github.com/fogonwater/we-are-here/tree/master/8_heart_memory)
+- [Chapter 1: Te Whenua](https://github.com/fogonwater/we-are-here/tree/master/1_te_whenua)
+- [Chapter 2: Water and Air](https://github.com/fogonwater/we-are-here/tree/master/2_water_air)
+- [Chapter 3: Living Things](https://github.com/fogonwater/we-are-here/tree/master/3_living_things)
+- [Chapter 4: Places](https://github.com/fogonwater/we-are-here/tree/master/4_places)
+- [Chapter 5: People](https://github.com/fogonwater/we-are-here/tree/master/5_people)
+- [Chapter 6: Government](https://github.com/fogonwater/we-are-here/tree/master/6_government)
+- [Chapter 7: Movement and Energy](https://github.com/fogonwater/we-are-here/tree/master/7_movement_energy)
+- [Chapter 8: Heart and Memory](https://github.com/fogonwater/we-are-here/tree/master/8_heart_memory)
 
 ## Here be dragons...
 
