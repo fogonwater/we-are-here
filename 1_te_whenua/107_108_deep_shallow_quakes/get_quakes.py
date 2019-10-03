@@ -1,7 +1,6 @@
 import csv
 import os
 import urllib.request
-from math import floor
 
 GNS_DIR = 'gns'
 MERGE_DIR = 'merged'
