@@ -1,7 +1,8 @@
 # We Are Here: An Atlas of Aotearoa
-## Technical notes, data sources and code
 
 ![We Are Here cover](we_are_here_cover.jpg)
+
+## Technical notes, data sources and code
 
 This repository contains code and data for [We Are Here: An Atlas of Aotearoa](https://www.masseypress.ac.nz/books/we-are-here/). This is the place to look if you are curious where the data came from and how we created the various maps and charts. We have tried to include as much of the source code as possible.
 
