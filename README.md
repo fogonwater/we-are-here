@@ -6,7 +6,7 @@
 
 This repository contains code and data for [We Are Here: An Atlas of Aotearoa](https://www.masseypress.ac.nz/books/we-are-here/). This is the place to look if you are curious where the data came from and how we created the various maps and charts. We have tried to include as much of the source code as possible.
 
-Although we used [QGIS](https://qgis.org/en/site/) heavily, we have not included any QGIS project files as Chris didn't really set them up with distribution in mind (aka they're a bit of a mess).
+Please note that we used [QGIS](https://qgis.org/en/site/) heavily, but we have not included any QGIS project files. Chris didn't really set them up with distribution in mind (aka they're a bit of a mess).
 
 The repository is organised into folders that correspond to the book's chapters. We are still adding bits and pieces to this, especially in the later chapters. Please bear with us for a few days as we get everything in order.
 
@@ -61,9 +61,9 @@ We used a wide variety of tools and data formats to create this atlas. With the 
 
 The only proprietary software we used were three design and publication tools from [Adobe](https://www.adobe.com/): 
 
-- Adobe Illustrator: an editor for working with vector graphics. We prepared each individual spread in Illustrator.
-- Adobe Photoshop: an editor for working with raster graphics.
-- Adobe InDesign: an editor for desktop publishing and typesetting. The individual spreads were gathered together in InDesign for publishing. 
+- **Adobe Illustrator**: an editor for working with vector graphics. We prepared each individual spread in Illustrator.
+- **Adobe Photoshop**: an editor for working with raster graphics.
+- **Adobe InDesign**: an editor for desktop publishing and typesetting. The individual spreads were gathered together in InDesign for publishing. 
 
 
 
