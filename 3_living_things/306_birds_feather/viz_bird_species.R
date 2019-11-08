@@ -26,7 +26,7 @@ write.csv(sel_bird, paste0("data/dist_", paste0(bird_name), ".csv"))
 p <- ggplot(sel_bird, aes(east, north)) +
   geom_point(aes(colour = ans), show.legend = TRUE) +
   scale_color_manual(values=c("#ececec", "#BA4031"))+
-  theme_ipsum(grid=F) +
+  theme_minimal() +
   coord_fixed()
 
 print(p)
